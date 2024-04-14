@@ -1,3 +1,4 @@
+// © All RIGHT RESEVED FOR PI ROBO
 #include <Wire.h>
 #include <PixyI2C.h>
 PixyI2C pixy;
